@@ -1,0 +1,226 @@
+note_id,gold_code,gold_desc,pred_code,pred_desc,raw_response,correct
+362,L03.115,Cellulitis of right lower limb,L03.115,Cellulitis of other part of limb,"Reason: The main clinical problem described in the note is cellulitis of the right lower limb. The note does not mention any other significant medical conditions or symptoms, so the best code is for cellulitis.
+
+{""code"": ""L03.115"", ""description"": ""Cellulitis of other part of limb""}",True
+74,J06.9,"Acute upper respiratory infection, unspecified",J06.9,"Acute upper respiratory infection, unspecified","Reason: The main clinical problem described in the note is an acute upper respiratory infection, as indicated by the assessment favoring this diagnosis. The note does not mention any other significant symptoms or conditions that would warrant a different diagnosis code.
+
+{""code"": ""J06.9"", ""description"": ""Acute upper respiratory infection, unspecified""}",True
+375,L40.0,Psoriasis vulgaris,L40.0,Psoriasis vulgaris,"Reason: The main clinical problem described in the note is psoriasis vulgaris. The note specifically states that the ""Assessment favors psoriasis vulgaris"", indicating this is the primary diagnosis. The other symptoms and vital signs mentioned are not the focus of the note and do not warrant separate diagnosis codes.
+
+{""code"": ""L40.0"", ""description"": ""Psoriasis vulgaris""}",True
+156,K52.9,"Noninfective gastroenteritis and colitis, unspecified",K52.9,"Noninfective gastroenteritis and colitis, unspecified","Reason: The main clinical problem described in the note is noninfective gastroenteritis and colitis, unspecified. The note does not mention any other significant symptoms or conditions, so the best code is K52.9.
+
+{""code"": ""K52.9"", ""description"": ""Noninfective gastroenteritis and colitis, unspecified""}",True
+105,E78.5,"Hyperlipidemia, unspecified",E78.5,"Hyperlipidemia, unspecified","Reason: The main clinical problem described in the note is hyperlipidemia, unspecified. The note mentions elevated LDL, HDL, and triglyceride levels, and the assessment favors a diagnosis of unspecified hyperlipidemia. No other major clinical conditions are mentioned.
+
+{""code"": ""E78.5"", ""description"": ""Hyperlipidemia, unspecified""}",True
+395,N40.1,Benign prostatic hyperplasia with lower urinary tract symptoms,N40.1,Benign prostatic hyperplasia with lower urinary tract symptoms,"Reason: The main clinical problem described in the note is benign prostatic hyperplasia (BPH) with lower urinary tract symptoms. The note does not mention any other significant medical conditions or symptoms.
+
+{""code"": ""N40.1"", ""description"": ""Benign prostatic hyperplasia with lower urinary tract symptoms""}",True
+378,L40.0,Psoriasis vulgaris,L40.0,Psoriasis vulgaris,"Reason: The main clinical problem described in the note is psoriasis vulgaris. The note does not mention any other significant symptoms or conditions, so the best code is for the primary diagnosis of psoriasis.
+
+{""code"": ""L40.0"", ""description"": ""Psoriasis vulgaris""}",True
+125,I50.9,"Heart failure, unspecified",I50.9,"Heart failure, unspecified","Reason: The main clinical problem described in the note is heart failure, unspecified. The note mentions an assessment favoring heart failure, unspecified, and does not indicate any other major clinical conditions.
+
+{""code"": ""I50.9"", ""description"": ""Heart failure, unspecified""}",True
+69,N39.0,"Urinary tract infection, site not specified",N39.0,"Urinary tract infection, site not specified","Reason: The main clinical problem described in the note is a urinary tract infection, as the assessment specifically states that the diagnosis favors a urinary tract infection with an unspecified site.
+
+{""code"": ""N39.0"", ""description"": ""Urinary tract infection, site not specified""}",True
+451,K92.2,"Gastrointestinal hemorrhage, unspecified",K92.2,"Gastrointestinal hemorrhage, unspecified","Reason: The main clinical problem described in the note is gastrointestinal hemorrhage, unspecified. The note does not mention any other significant symptoms or conditions, so the best code is K92.2 - Gastrointestinal hemorrhage, unspecified.
+
+{""code"": ""K92.2"", ""description"": ""Gastrointestinal hemorrhage, unspecified""}",True
+10,I10,Essential (primary) hypertension,I10,Essential (primary) hypertension,"Reason: The main clinical problem described in the note is essential (primary) hypertension. The patient reports intermittent headaches, which is a common symptom of hypertension, and the assessment favors essential hypertension. The note does not mention any other significant symptoms or conditions.
+
+{""code"": ""I10"", ""description"": ""Essential (primary) hypertension""}",True
+195,K57.30,Diverticulosis of large intestine without perforation or abscess without bleeding,K57.30,Diverticulosis of large intestine without perforation or abscess without bleeding,"Reason: The main clinical problem described in the note is diverticulosis of the large intestine without perforation, abscess, or bleeding. This is the central diagnosis, and the other symptoms like hypertension are not the focus of the note.
+
+{""code"": ""K57.30"", ""description"": ""Diverticulosis of large intestine without perforation or abscess without bleeding""}",True
+407,R06.02,Shortness of breath,R06.02,Shortness of breath,"Reason: The main clinical problem described in the note is shortness of breath. The note does not provide enough information to distinguish between specific respiratory conditions like asthma, COPD, or pneumonia. The note also mentions hypertension, but this is not the primary focus.
+
+{""code"": ""R06.02"", ""description"": ""Shortness of breath""}",True
+85,R07.9,"Chest pain, unspecified",R07.9,"Chest pain, unspecified","Reason: The main clinical problem described in the note is chest pain, unspecified. The note does not provide any information about other symptoms or conditions that would suggest a different diagnosis.
+
+{""code"": ""R07.9"", ""description"": ""Chest pain, unspecified""}",True
+372,L40.0,Psoriasis vulgaris,L40.0,Psoriasis vulgaris,"Reason: The main clinical problem described in the note is psoriasis vulgaris. The note does not mention any other significant symptoms or conditions, so the best code is for the diagnosed condition of psoriasis vulgaris.
+
+{""code"": ""L40.0"", ""description"": ""Psoriasis vulgaris""}",True
+389,N18.9,"Chronic kidney disease, unspecified",N18.9,"Chronic kidney disease, unspecified","Reason: The main clinical problem described in the note is chronic kidney disease, unspecified. The note mentions the patient's eGFR of 51 mL/min and creatinine of 3.0 mg/dL, which are consistent with chronic kidney disease. The note does not mention any other significant medical conditions or symptoms, so chronic kidney disease is the best diagnosis.
+
+{""code"": ""N18.9"", ""description"": ""Chronic kidney disease, unspecified""}",True
+496,R73.03,Prediabetes,R73.03,Prediabetes,"Reason: The main clinical problem described in the note is prediabetes. The note mentions an assessment favoring prediabetes, and does not indicate any other significant medical conditions.
+
+{""code"": ""R73.03"", ""description"": ""Prediabetes""}",True
+31,M54.50,"Low back pain, unspecified",M54.50,"Low back pain, unspecified","Reason: The main clinical problem described in the note is lower back pain, which is the central focus of the assessment. The note does not mention any other significant symptoms or conditions, so the most appropriate code is for low back pain, unspecified.
+
+{""code"": ""M54.50"", ""description"": ""Low back pain, unspecified""}",True
+317,F41.9,"Anxiety disorder, unspecified",F41.9,"Anxiety disorder, unspecified","Reason: The main clinical problem described in the note is an anxiety disorder, which is the primary focus of the assessment and management. The note does not mention any other significant medical conditions or symptoms that would warrant a different diagnosis code.
+
+{""code"": ""F41.9"", ""description"": ""Anxiety disorder, unspecified""}",True
+409,R06.02,Shortness of breath,R06.02,Shortness of breath,"Reason: The main clinical problem described in the note is shortness of breath. The note does not provide any details about the underlying cause of the shortness of breath, such as asthma, COPD, or heart failure. Therefore, the most appropriate code is for unspecified shortness of breath.
+
+{""code"": ""R06.02"", ""description"": ""Shortness of breath""}",True
+491,R73.03,Prediabetes,R73.03,Prediabetes,"Reason: The main clinical problem described in the note is prediabetes. The note mentions ""Assessment favors prediabetes"" as the primary diagnosis, and does not mention any other significant medical conditions.
+
+{""code"": ""R73.03"", ""description"": ""Prediabetes""}",True
+492,R73.03,Prediabetes,R73.03,Prediabetes,"Reason: The main clinical problem described in the note is prediabetes. The note mentions an ""assessment favors prediabetes"" and does not indicate the patient has a diagnosis of type 2 diabetes mellitus.
+
+{""code"": ""R73.03"", ""description"": ""Prediabetes""}",True
+281,R19.7,"Diarrhea, unspecified",K52.9,"Noninfective gastroenteritis and colitis, unspecified","Reason: The main clinical problem described in the note is diarrhea, unspecified. The note does not mention any other significant symptoms or conditions, so the best code is for the primary diagnosis of diarrhea.
+
+{""code"": ""K52.9"", ""description"": ""Noninfective gastroenteritis and colitis, unspecified""}",False
+357,L03.116,Cellulitis of left lower limb,L03.115,Cellulitis of left lower limb,"Reason: The main clinical problem described in the note is cellulitis of the left lower limb. The note mentions ""Assessment favors cellulitis of left lower limb"" as the primary diagnosis, and this is the central focus of the note. Other minor symptoms like elevated blood pressure and heart rate are not the main focus.
+
+{""code"": ""L03.115"", ""description"": ""Cellulitis of left lower limb""}",False
+77,J06.9,"Acute upper respiratory infection, unspecified",J06.9,"Acute upper respiratory infection, unspecified","Reason: The main clinical problem described in the note is an acute upper respiratory infection, as indicated by the assessment favoring this diagnosis. The note does not mention any other significant symptoms or conditions that would warrant a different diagnosis code.
+
+{""code"": ""J06.9"", ""description"": ""Acute upper respiratory infection, unspecified""}",True
+462,M06.9,"Rheumatoid arthritis, unspecified",M06.9,"Rheumatoid arthritis, unspecified","Reason: The main clinical problem described in the note is rheumatoid arthritis, unspecified. The note does not mention any other significant symptoms or conditions, so the best code is for the primary diagnosis of rheumatoid arthritis.
+
+{""code"": ""M06.9"", ""description"": ""Rheumatoid arthritis, unspecified""}",True
+498,R73.03,Prediabetes,R73.03,Prediabetes,"Reason: The main clinical problem described in the note is prediabetes. The note mentions an assessment favoring prediabetes, and does not indicate any other significant medical conditions.
+
+{""code"": ""R73.03"", ""description"": ""Prediabetes""}",True
+212,M17.9,"Osteoarthritis of knee, unspecified",M17.9,"Osteoarthritis of knee, unspecified","Reason: The main clinical problem described in the note is osteoarthritis of the knee. The note does not mention any other significant symptoms or conditions, so the best code is for the primary diagnosis of osteoarthritis.
+
+{""code"": ""M17.9"", ""description"": ""Osteoarthritis of knee, unspecified""}",True
+102,E78.5,"Hyperlipidemia, unspecified",E78.5,"Hyperlipidemia, unspecified","Reason: The main clinical problem described in the note is hyperlipidemia, unspecified. The note mentions elevated LDL, HDL, and triglyceride levels, and the assessment favors a diagnosis of hyperlipidemia, unspecified.
+
+{""code"": ""E78.5"", ""description"": ""Hyperlipidemia, unspecified""}",True
+335,G47.33,Obstructive sleep apnea,G47.33,"Obstructive sleep apnea, unspecified","Reason: The main clinical problem described in the note is obstructive sleep apnea. The note mentions an assessment favoring this condition, and does not indicate any other major symptoms or diagnoses.
+
+{""code"": ""G47.33"", ""description"": ""Obstructive sleep apnea, unspecified""}",True
+476,M54.2,Cervicalgia,M54.2,Cervicalgia,"Reason: The main clinical problem described in the note is cervicalgia (neck pain). The note does not mention any other significant symptoms or conditions, so the best code is for the primary diagnosis of neck pain.
+
+{""code"": ""M54.2"", ""description"": ""Cervicalgia""}",True
+337,G47.33,Obstructive sleep apnea,G47.33,"Obstructive sleep apnea, unspecified","Reason: The main clinical problem described in the note is obstructive sleep apnea. The note mentions an assessment favoring this condition, and it is the central focus of the patient's presentation.
+
+{""code"": ""G47.33"", ""description"": ""Obstructive sleep apnea, unspecified""}",True
+441,K59.00,"Constipation, unspecified",K59.00,"Constipation, unspecified","Reason: The main clinical problem described in the note is constipation, which is the primary focus of the assessment. The note does not mention any other significant symptoms or conditions.
+
+{""code"": ""K59.00"", ""description"": ""Constipation, unspecified""}",True
+174,K40.90,"Unilateral inguinal hernia, without obstruction or gangrene",K40.90,"Unilateral inguinal hernia, without obstruction or gangrene","Reason: The main clinical problem described in the note is a unilateral inguinal hernia, without obstruction or gangrene. This is the central diagnosis, and other minor symptoms are not the focus.
+
+{""code"": ""K40.90"", ""description"": ""Unilateral inguinal hernia, without obstruction or gangrene""}",True
+3,I10,Essential (primary) hypertension,I10,Essential (primary) hypertension,"Reason: The main clinical problem described in the note is essential (primary) hypertension. The patient's blood pressure is elevated, and the assessment favors essential hypertension. The other symptoms like headaches and lack of chest pain or dyspnea are not the central focus of the note.
+
+{""code"": ""I10"", ""description"": ""Essential (primary) hypertension""}",True
+334,G47.33,Obstructive sleep apnea,G47.33,"Obstructive sleep apnea, unspecified","Reason: The main clinical problem described in the note is obstructive sleep apnea. The note mentions an assessment favoring this condition, and there are no other major symptoms or conditions mentioned that would take priority over this diagnosis.
+
+{""code"": ""G47.33"", ""description"": ""Obstructive sleep apnea, unspecified""}",True
+410,R06.02,Shortness of breath,R06.02,Shortness of breath,"Reason: The main clinical problem described in the note is shortness of breath. The note does not provide enough information to distinguish between specific respiratory conditions like asthma, COPD, or pneumonia. The note also mentions hypertension, but this is not the primary focus.
+
+{""code"": ""R06.02"", ""description"": ""Shortness of breath""}",True
+71,J06.9,"Acute upper respiratory infection, unspecified",J06.9,"Acute upper respiratory infection, unspecified","Reason: The main clinical problem described in the note is an acute upper respiratory infection, which is the central diagnosis. The note does not mention any other significant symptoms or conditions that would warrant a different diagnosis code.
+
+{""code"": ""J06.9"", ""description"": ""Acute upper respiratory infection, unspecified""}",True
+210,K62.5,Hemorrhage of anus and rectum,K62.5,Hemorrhage of anus and rectum,"Reason: The main clinical problem described in the note is hemorrhage of the anus and rectum. This is the central diagnosis, and other minor symptoms like hypertension are not the focus.
+
+{""code"": ""K62.5"", ""description"": ""Hemorrhage of anus and rectum""}",True
+64,N39.0,"Urinary tract infection, site not specified",N39.0,"Urinary tract infection, site not specified","Reason: The main clinical problem described in the note is a urinary tract infection, as the assessment specifically states that the diagnosis favors a urinary tract infection with an unspecified site.
+
+{""code"": ""N39.0"", ""description"": ""Urinary tract infection, site not specified""}",True
+385,N18.9,"Chronic kidney disease, unspecified",N18.9,"Chronic kidney disease, unspecified","Reason: The main clinical problem described in the note is chronic kidney disease, as evidenced by the patient's low eGFR and elevated creatinine levels. The note does not mention any other significant symptoms or conditions, so chronic kidney disease, unspecified is the best diagnosis.
+
+{""code"": ""N18.9"", ""description"": ""Chronic kidney disease, unspecified""}",True
+94,G43.909,"Migraine, unspecified, not intractable, without status migrainosus",G43.909,"Migraine, unspecified, not intractable, without status migrainosus","Reason: The main clinical problem described in the note is migraine, unspecified, not intractable, without status migrainosus. The note specifically states that the ""Assessment favors migraine, unspecified, not intractable, without status migrainosus.""
+
+{""code"": ""G43.909"", ""description"": ""Migraine, unspecified, not intractable, without status migrainosus""}",True
+486,R00.2,Palpitations,R00.2,Palpitations,"Reason: The main clinical problem described in the note is palpitations, which is a symptom of various cardiovascular conditions. The note does not provide enough information to distinguish between specific cardiac conditions, so the most appropriate code is for an unspecified cardiac arrhythmia.
+
+{""code"": ""R00.2"", ""description"": ""Palpitations""}",True
+186,K42.9,Umbilical hernia without obstruction or gangrene,K42.9,Umbilical hernia without obstruction or gangrene,"Reason: The main clinical problem described in the note is an umbilical hernia without obstruction or gangrene. The note does not mention any other significant medical conditions or symptoms.
+
+{""code"": ""K42.9"", ""description"": ""Umbilical hernia without obstruction or gangrene""}",True
+34,M54.50,"Low back pain, unspecified",M54.50,"Low back pain, unspecified","Reason: The main clinical problem described in the note is lower back pain without radicular symptoms. The note does not mention any other significant medical conditions or symptoms, so the most appropriate code is for low back pain, unspecified.
+
+{""code"": ""M54.50"", ""description"": ""Low back pain, unspecified""}",True
+78,J06.9,"Acute upper respiratory infection, unspecified",J06.9,"Acute upper respiratory infection, unspecified","Reason: The main clinical problem described in the note is an acute upper respiratory infection, which is the central diagnosis. The note does not mention any other significant symptoms or conditions that would warrant a different diagnosis code.
+
+{""code"": ""J06.9"", ""description"": ""Acute upper respiratory infection, unspecified""}",True
+1,I10,Essential (primary) hypertension,I10,Essential (primary) hypertension,"Reason: The main clinical problem described in the note is essential (primary) hypertension. The patient is reported to have high blood pressure (150/99 mmHg) and is continuing on the antihypertensive medication losartan, which indicates a diagnosis of hypertension. The note does not mention any other significant symptoms or conditions.
+
+{""code"": ""I10"", ""description"": ""Essential (primary) hypertension""}",True
+12,E11.9,Type 2 diabetes mellitus without complications,E11.9,Type 2 diabetes mellitus without complications,"Reason: The main clinical problem described in the note is type 2 diabetes mellitus. The patient presents with polyuria, polydipsia, and fatigue, which are characteristic symptoms of diabetes. The laboratory results, including elevated HbA1c and fasting glucose, confirm the diagnosis of type 2 diabetes. The note also mentions that the patient is continuing on metformin, which is a common treatment for type 2 diabetes. The note does not mention any complications of diabetes, so the appropriate code is for type 2 diabetes mellitus without complications.
+
+{""code"": ""E11.9"", ""description"": ""Type 2 diabetes mellitus without complications""}",True
+416,I63.9,"Cerebral infarction, unspecified",I63.9,"Cerebral infarction, unspecified","Reason: The main clinical problem described in the note is cerebral infarction, or ischemic stroke. The note specifically states that the ""Assessment favors cerebral infarction, unspecified."" This is the central diagnosis, and the other symptoms mentioned (high blood pressure, rapid heart rate) are likely related to or consequences of the stroke.
+
+{""code"": ""I63.9"", ""description"": ""Cerebral infarction, unspecified""}",True
+23,J45.909,"Unspecified asthma, uncomplicated",J45.909,"Unspecified asthma, uncomplicated","Reason: The main clinical problem described in the note is unspecified asthma, which is supported by the patient's reported wheezing at night and relief with inhaler use. The note does not mention any other significant medical conditions or symptoms that would warrant a different diagnosis code.
+
+{""code"": ""J45.909"", ""description"": ""Unspecified asthma, uncomplicated""}",True
+73,J06.9,"Acute upper respiratory infection, unspecified",J06.9,"Acute upper respiratory infection, unspecified","Reason: The main clinical problem described in the note is an acute upper respiratory infection, which is the central diagnosis. The note does not mention any other significant symptoms or conditions that would warrant a different diagnosis code.
+
+{""code"": ""J06.9"", ""description"": ""Acute upper respiratory infection, unspecified""}",True
+183,K42.9,Umbilical hernia without obstruction or gangrene,K42.9,Umbilical hernia without obstruction or gangrene,"Reason: The main clinical problem described in the note is an umbilical hernia without obstruction or gangrene. This is the central diagnosis, and other minor symptoms are not the focus.
+
+{""code"": ""K42.9"", ""description"": ""Umbilical hernia without obstruction or gangrene""}",True
+132,J20.9,"Acute bronchitis, unspecified",J20.9,"Acute bronchitis, unspecified","Reason: The main clinical problem described in the note is acute bronchitis, unspecified. The note mentions ""symptoms consistent with the listed diagnosis"" and ""Assessment favors acute bronchitis, unspecified"". This is the central diagnosis, and other minor symptoms like low oxygen saturation are not the focus.
+
+{""code"": ""J20.9"", ""description"": ""Acute bronchitis, unspecified""}",True
+411,I63.9,"Cerebral infarction, unspecified",I63.9,"Cerebral infarction, unspecified","Reason: The main clinical problem described in the note is cerebral infarction, or ischemic stroke. The note specifically states that the ""Assessment favors cerebral infarction, unspecified."" This is the central diagnosis, and the other symptoms mentioned (e.g., low oxygen saturation) are likely related to the stroke.
+
+{""code"": ""I63.9"", ""description"": ""Cerebral infarction, unspecified""}",True
+194,K57.30,Diverticulosis of large intestine without perforation or abscess without bleeding,K57.30,Diverticulosis of large intestine without perforation or abscess without bleeding,"Reason: The main clinical problem described in the note is diverticulosis of the large intestine without perforation, abscess, or bleeding. This is the central diagnosis, and other minor symptoms like elevated blood pressure and heart rate are not the focus.
+
+{""code"": ""K57.30"", ""description"": ""Diverticulosis of large intestine without perforation or abscess without bleeding""}",True
+56,F32.9,"Major depressive disorder, single episode, unspecified",F32.9,"Major depressive disorder, single episode, unspecified","Reason: The main clinical problem described in the note is major depressive disorder, single episode, unspecified. The note does not mention any other significant symptoms or conditions, so the best code is for the primary diagnosis of major depressive disorder.
+
+{""code"": ""F32.9"", ""description"": ""Major depressive disorder, single episode, unspecified""}",True
+149,J18.9,"Pneumonia, unspecified organism",J18.9,"Pneumonia, unspecified organism","Reason: The main clinical problem described in the note is pneumonia, unspecified organism. The note mentions an assessment favoring pneumonia, and this is the central diagnosis, so I will choose the corresponding ICD-10 code.
+
+{""code"": ""J18.9"", ""description"": ""Pneumonia, unspecified organism""}",True
+19,E11.9,Type 2 diabetes mellitus without complications,E11.9,Type 2 diabetes mellitus without complications,"Reason: The main clinical problem described in the note is type 2 diabetes mellitus. The patient presents with polyuria, polydipsia, and fatigue, which are characteristic symptoms of diabetes. The laboratory results, including elevated HbA1c and fasting glucose, confirm the diagnosis of type 2 diabetes. The note does not mention any complications of diabetes, so the appropriate code is for type 2 diabetes mellitus without complications.
+
+{""code"": ""E11.9"", ""description"": ""Type 2 diabetes mellitus without complications""}",True
+205,K62.5,Hemorrhage of anus and rectum,K62.5,Hemorrhage of anus and rectum,"Reason: The main clinical problem described in the note is hemorrhage of the anus and rectum. This is the central diagnosis, and other minor symptoms like hypertension are not the focus.
+
+{""code"": ""K62.5"", ""description"": ""Hemorrhage of anus and rectum""}",True
+79,J06.9,"Acute upper respiratory infection, unspecified",J06.9,"Acute upper respiratory infection, unspecified","Reason: The main clinical problem described in the note is an acute upper respiratory infection, which is the central diagnosis. The note does not mention any other significant symptoms or conditions that would warrant a different diagnosis code.
+
+{""code"": ""J06.9"", ""description"": ""Acute upper respiratory infection, unspecified""}",True
+495,R73.03,Prediabetes,R73.03,Prediabetes,"Reason: The main clinical problem described in the note is prediabetes. The note does not mention any other significant symptoms or conditions, so the best code is for prediabetes.
+
+{""code"": ""R73.03"", ""description"": ""Prediabetes""}",True
+263,R10.9,Unspecified abdominal pain,R10.9,Unspecified abdominal pain,"Reason: The main clinical problem described in the note is unspecified abdominal pain. The note does not mention any other significant symptoms or conditions, so the best code is for unspecified abdominal pain.
+
+{""code"": ""R10.9"", ""description"": ""Unspecified abdominal pain""}",True
+324,G20.A1,"Parkinson's disease without dyskinesia, without fluctuating manifestations",G20,Parkinson's disease,"Reason: The clinical note describes a patient with symptoms consistent with Parkinson's disease, without mention of any other major clinical problems. The note does not provide information about the patient's diabetes, hypertension, or other conditions, so those codes would not be appropriate.
+
+{""code"": ""G20"", ""description"": ""Parkinson's disease""}",False
+484,R00.2,Palpitations,R07.9,"Chest pain, unspecified","Reason: The main clinical problem described in the note is palpitations, which is a symptom of an underlying cardiovascular condition. The note does not provide enough information to distinguish between specific cardiovascular conditions such as arrhythmia, heart failure, or coronary artery disease. Therefore, the best code is for the general symptom of palpitations.
+
+{""code"": ""R07.9"", ""description"": ""Chest pain, unspecified""}",False
+80,J06.9,"Acute upper respiratory infection, unspecified",J06.9,"Acute upper respiratory infection, unspecified","Reason: The main clinical problem described in the note is an acute upper respiratory infection, as evidenced by the assessment favoring this diagnosis. The note does not mention any other significant symptoms or conditions that would warrant a different diagnosis code.
+
+{""code"": ""J06.9"", ""description"": ""Acute upper respiratory infection, unspecified""}",True
+40,M54.50,"Low back pain, unspecified",M54.50,"Low back pain, unspecified","Reason: The main clinical problem described in the note is lower back pain, which is the central focus of the assessment. The note does not mention any other significant symptoms or conditions, so the unspecified low back pain diagnosis is the most appropriate.
+
+{""code"": ""M54.50"", ""description"": ""Low back pain, unspecified""}",True
+452,K92.2,"Gastrointestinal hemorrhage, unspecified",K92.2,"Gastrointestinal hemorrhage, unspecified","Reason: The main clinical problem described in the note is gastrointestinal hemorrhage, which is the central diagnosis. The note does not mention any other significant symptoms or conditions, so I will focus on assigning the best code for gastrointestinal hemorrhage.
+
+{""code"": ""K92.2"", ""description"": ""Gastrointestinal hemorrhage, unspecified""}",True
+47,K21.9,Gastro-esophageal reflux disease without esophagitis,K21.9,Gastro-esophageal reflux disease without esophagitis,"Reason: The main clinical problem described in the note is gastro-esophageal reflux disease (GERD) without esophagitis. The patient reports heartburn and nocturnal reflux, which are characteristic symptoms of GERD. The note also states that the assessment favors GERD without esophagitis, and the patient is continuing on pantoprazole, a proton pump inhibitor used to treat GERD.
+
+{""code"": ""K21.9"", ""description"": ""Gastro-esophageal reflux disease without esophagitis""}",True
+239,M25.562,Pain in left knee,M54.50,"Low back pain, unspecified","Reason: The main clinical problem described in the note is pain in the left knee. The note does not mention any other significant symptoms or conditions, so the best code is for the knee pain.
+
+{""code"": ""M54.50"", ""description"": ""Low back pain, unspecified""}",False
+392,N40.1,Benign prostatic hyperplasia with lower urinary tract symptoms,N39.0,"Urinary tract infection, site not specified","Reason: The clinical note indicates that the main problem is benign prostatic hyperplasia (BPH) with lower urinary tract symptoms, which is a condition affecting the prostate gland in males. The note does not mention any symptoms or conditions related to the female patient, so the diagnosis of BPH is not applicable in this case.
+
+{""code"": ""N39.0"", ""description"": ""Urinary tract infection, site not specified""}",False
+353,L03.116,Cellulitis of left lower limb,L03.115,Cellulitis of left lower limb,"Reason: The main clinical problem described in the note is cellulitis of the left lower limb. The note does not mention any other significant symptoms or conditions, so the best code is for cellulitis.
+
+{""code"": ""L03.115"", ""description"": ""Cellulitis of left lower limb""}",False
+342,J44.9,"Chronic obstructive pulmonary disease, unspecified",J44.9,"Chronic obstructive pulmonary disease, unspecified","Reason: The main clinical problem described in the note is chronic obstructive pulmonary disease (COPD), unspecified. The patient's symptoms, including low oxygen saturation, are consistent with COPD, and the assessment favors this diagnosis.
+
+{""code"": ""J44.9"", ""description"": ""Chronic obstructive pulmonary disease, unspecified""}",True
+278,R11.2,"Nausea with vomiting, unspecified",R11.2,"Nausea with vomiting, unspecified","Reason: The main clinical problem described in the note is nausea with vomiting, which is the central diagnosis. The note does not mention any other significant symptoms or conditions that would warrant a different diagnosis code.
+
+{""code"": ""R11.2"", ""description"": ""Nausea with vomiting, unspecified""}",True
+291,R42,Dizziness and giddiness,R42,Dizziness and giddiness,"Reason: The main clinical problem described in the note is dizziness and giddiness. The note does not mention any other significant symptoms or conditions that would warrant a different diagnosis code.
+
+{""code"": ""R42"", ""description"": ""Dizziness and giddiness""}",True
+318,F41.9,"Anxiety disorder, unspecified",F41.9,"Anxiety disorder, unspecified","Reason: The main clinical problem described in the note is an anxiety disorder, as indicated by the assessment favoring an ""anxiety disorder, unspecified"". The note does not mention any other significant medical conditions or symptoms that would warrant a different diagnosis code.
+
+{""code"": ""F41.9"", ""description"": ""Anxiety disorder, unspecified""}",True

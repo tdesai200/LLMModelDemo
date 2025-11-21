@@ -1,0 +1,76 @@
+note_id,gold_code,gold_desc,pred_code,pred_desc,raw_response,correct
+362,L03.115,Cellulitis of right lower limb,L03.115,Cellulitis of right lower limb,"{""code"": ""L03.115"", ""description"": ""Cellulitis of right lower limb""}",True
+74,J06.9,"Acute upper respiratory infection, unspecified",J06.9,"Acute upper respiratory infection, unspecified","{""code"": ""J06.9"", ""description"": ""Acute upper respiratory infection, unspecified""}",True
+375,L40.0,Psoriasis vulgaris,L40.0,Psoriasis vulgaris,"{""code"": ""L40.0"", ""description"": ""Psoriasis vulgaris""}",True
+156,K52.9,"Noninfective gastroenteritis and colitis, unspecified",K52.9,"Noninfective gastroenteritis and colitis, unspecified","{""code"": ""K52.9"", ""description"": ""Noninfective gastroenteritis and colitis, unspecified""}",True
+105,E78.5,"Hyperlipidemia, unspecified",E78.5,"Hyperlipidemia, unspecified","{""code"": ""E78.5"", ""description"": ""Hyperlipidemia, unspecified""}",True
+395,N40.1,Benign prostatic hyperplasia with lower urinary tract symptoms,N40.1,Benign prostatic hyperplasia with lower urinary tract symptoms,"{""code"": ""N40.1"", ""description"": ""Benign prostatic hyperplasia with lower urinary tract symptoms""}",True
+378,L40.0,Psoriasis vulgaris,L40.0,Psoriasis vulgaris,"{""code"": ""L40.0"", ""description"": ""Psoriasis vulgaris""}",True
+125,I50.9,"Heart failure, unspecified",I50.9,"Heart failure, unspecified","{""code"": ""I50.9"", ""description"": ""Heart failure, unspecified""}",True
+69,N39.0,"Urinary tract infection, site not specified",N39.0,"Urinary tract infection, site not specified","{""code"": ""N39.0"", ""description"": ""Urinary tract infection, site not specified""}",True
+451,K92.2,"Gastrointestinal hemorrhage, unspecified",K92.2,"Gastrointestinal hemorrhage, unspecified","{""code"": ""K92.2"", ""description"": ""Gastrointestinal hemorrhage, unspecified""}",True
+10,I10,Essential (primary) hypertension,I10,Essential (primary) hypertension,"{""code"": ""I10"", ""description"": ""Essential (primary) hypertension""}",True
+195,K57.30,Diverticulosis of large intestine without perforation or abscess without bleeding,K57.30,Diverticulosis of large intestine without perforation or abscess without bleeding,"{""code"": ""K57.30"", ""description"": ""Diverticulosis of large intestine without perforation or abscess without bleeding""}",True
+407,R06.02,Shortness of breath,J18.9,"Pneumonia, unspecified organism","{""code"": ""J18.9"", ""description"": ""Pneumonia, unspecified organism""}",False
+85,R07.9,"Chest pain, unspecified",R07.9,"Chest pain, unspecified","{""code"": ""R07.9"", ""description"": ""Chest pain, unspecified""}",True
+372,L40.0,Psoriasis vulgaris,L40.0,Psoriasis vulgaris,"{""code"": ""L40.0"", ""description"": ""Psoriasis vulgaris""}",True
+389,N18.9,"Chronic kidney disease, unspecified",N18.9,"Chronic kidney disease, unspecified","{""code"": ""N18.9"", ""description"": ""Chronic kidney disease, unspecified""}",True
+496,R73.03,Prediabetes,E11.9,Type 2 diabetes mellitus without complications,"{""code"": ""E11.9"", ""description"": ""Type 2 diabetes mellitus without complications""}",False
+31,M54.50,"Low back pain, unspecified",M54.50,"Low back pain, unspecified","{""code"": ""M54.50"", ""description"": ""Low back pain, unspecified""}",True
+317,F41.9,"Anxiety disorder, unspecified",F32.9,"Major depressive disorder, single episode, unspecified","{""code"": ""F32.9"", ""description"": ""Major depressive disorder, single episode, unspecified""}",False
+409,R06.02,Shortness of breath,J18.9,"Pneumonia, unspecified organism","{""code"": ""J18.9"", ""description"": ""Pneumonia, unspecified organism""}",False
+491,R73.03,Prediabetes,E11.9,Type 2 diabetes mellitus without complications,"{""code"": ""E11.9"", ""description"": ""Type 2 diabetes mellitus without complications""}",False
+492,R73.03,Prediabetes,E11.9,Type 2 diabetes mellitus without complications,"{""code"": ""E11.9"", ""description"": ""Type 2 diabetes mellitus without complications""}",False
+281,R19.7,"Diarrhea, unspecified",K52.9,"Noninfective gastroenteritis and colitis, unspecified","{""code"": ""K52.9"", ""description"": ""Noninfective gastroenteritis and colitis, unspecified""}",False
+357,L03.116,Cellulitis of left lower limb,L03.115,Cellulitis of left lower limb,"{""code"": ""L03.115"", ""description"": ""Cellulitis of left lower limb""}",False
+77,J06.9,"Acute upper respiratory infection, unspecified",J06.9,"Acute upper respiratory infection, unspecified","{""code"": ""J06.9"", ""description"": ""Acute upper respiratory infection, unspecified""}",True
+462,M06.9,"Rheumatoid arthritis, unspecified",M06.9,"Rheumatoid arthritis, unspecified","{""code"": ""M06.9"", ""description"": ""Rheumatoid arthritis, unspecified""}",True
+498,R73.03,Prediabetes,E11.9,Type 2 diabetes mellitus without complications,"{""code"": ""E11.9"", ""description"": ""Type 2 diabetes mellitus without complications""}",False
+212,M17.9,"Osteoarthritis of knee, unspecified",M17.9,"Osteoarthritis of knee, unspecified","{""code"": ""M17.9"", ""description"": ""Osteoarthritis of knee, unspecified""}",True
+102,E78.5,"Hyperlipidemia, unspecified",E78.5,"Hyperlipidemia, unspecified","{""code"": ""E78.5"", ""description"": ""Hyperlipidemia, unspecified""}",True
+335,G47.33,Obstructive sleep apnea,G47.33,Obstructive sleep apnea (adult) (pediatric),"{""code"": ""G47.33"", ""description"": ""Obstructive sleep apnea (adult) (pediatric)""}",True
+476,M54.2,Cervicalgia,M54.2,Cervicalgia,"{""code"": ""M54.2"", ""description"": ""Cervicalgia""}",True
+337,G47.33,Obstructive sleep apnea,G47.33,Obstructive sleep apnea (adult) (pediatric),"{""code"": ""G47.33"", ""description"": ""Obstructive sleep apnea (adult) (pediatric)""}",True
+441,K59.00,"Constipation, unspecified",K52.9,"Noninfective gastroenteritis and colitis, unspecified","{""code"": ""K52.9"", ""description"": ""Noninfective gastroenteritis and colitis, unspecified""}",False
+174,K40.90,"Unilateral inguinal hernia, without obstruction or gangrene",K40.90,"Unilateral inguinal hernia, without obstruction or gangrene","{""code"": ""K40.90"", ""description"": ""Unilateral inguinal hernia, without obstruction or gangrene""}",True
+3,I10,Essential (primary) hypertension,I10,Essential (primary) hypertension,"{""code"": ""I10"", ""description"": ""Essential (primary) hypertension""}",True
+334,G47.33,Obstructive sleep apnea,G47.33,Obstructive sleep apnea (adult) (pediatric),"{""code"": ""G47.33"", ""description"": ""Obstructive sleep apnea (adult) (pediatric)""}",True
+410,R06.02,Shortness of breath,J18.9,"Pneumonia, unspecified organism","{""code"": ""J18.9"", ""description"": ""Pneumonia, unspecified organism""}",False
+71,J06.9,"Acute upper respiratory infection, unspecified",J06.9,"Acute upper respiratory infection, unspecified","{""code"": ""J06.9"", ""description"": ""Acute upper respiratory infection, unspecified""}",True
+210,K62.5,Hemorrhage of anus and rectum,K62.5,Hemorrhage of anus and rectum,"{""code"": ""K62.5"", ""description"": ""Hemorrhage of anus and rectum""}",True
+64,N39.0,"Urinary tract infection, site not specified",N39.0,"Urinary tract infection, site not specified","{""code"": ""N39.0"", ""description"": ""Urinary tract infection, site not specified""}",True
+385,N18.9,"Chronic kidney disease, unspecified",N18.9,"Chronic kidney disease, unspecified","{""code"": ""N18.9"", ""description"": ""Chronic kidney disease, unspecified""}",True
+94,G43.909,"Migraine, unspecified, not intractable, without status migrainosus",G43.909,"Migraine, unspecified, not intractable, without status migrainosus","{""code"": ""G43.909"", ""description"": ""Migraine, unspecified, not intractable, without status migrainosus""}",True
+486,R00.2,Palpitations,R07.9,"Chest pain, unspecified","{""code"": ""R07.9"", ""description"": ""Chest pain, unspecified""}",False
+186,K42.9,Umbilical hernia without obstruction or gangrene,K42.9,Umbilical hernia without obstruction or gangrene,"{""code"": ""K42.9"", ""description"": ""Umbilical hernia without obstruction or gangrene""}",True
+34,M54.50,"Low back pain, unspecified",M54.50,"Low back pain, unspecified","{""code"": ""M54.50"", ""description"": ""Low back pain, unspecified""}",True
+78,J06.9,"Acute upper respiratory infection, unspecified",J06.9,"Acute upper respiratory infection, unspecified","{""code"": ""J06.9"", ""description"": ""Acute upper respiratory infection, unspecified""}",True
+1,I10,Essential (primary) hypertension,I10,Essential (primary) hypertension,"{""code"": ""I10"", ""description"": ""Essential (primary) hypertension""}",True
+12,E11.9,Type 2 diabetes mellitus without complications,E11.9,Type 2 diabetes mellitus without complications,"{""code"": ""E11.9"", ""description"": ""Type 2 diabetes mellitus without complications""}",True
+416,I63.9,"Cerebral infarction, unspecified",I63.9,"Cerebral infarction, unspecified","{""code"": ""I63.9"", ""description"": ""Cerebral infarction, unspecified""}",True
+23,J45.909,"Unspecified asthma, uncomplicated",J45.909,"Unspecified asthma, uncomplicated","{""code"": ""J45.909"", ""description"": ""Unspecified asthma, uncomplicated""}",True
+73,J06.9,"Acute upper respiratory infection, unspecified",J06.9,"Acute upper respiratory infection, unspecified","{""code"": ""J06.9"", ""description"": ""Acute upper respiratory infection, unspecified""}",True
+183,K42.9,Umbilical hernia without obstruction or gangrene,K42.9,Umbilical hernia without obstruction or gangrene,"{""code"": ""K42.9"", ""description"": ""Umbilical hernia without obstruction or gangrene""}",True
+132,J20.9,"Acute bronchitis, unspecified",J20.9,"Acute bronchitis, unspecified","{""code"": ""J20.9"", ""description"": ""Acute bronchitis, unspecified""}",True
+411,I63.9,"Cerebral infarction, unspecified",I63.9,"Cerebral infarction, unspecified","{""code"": ""I63.9"", ""description"": ""Cerebral infarction, unspecified""}",True
+194,K57.30,Diverticulosis of large intestine without perforation or abscess without bleeding,K57.30,Diverticulosis of large intestine without perforation or abscess without bleeding,"{""code"": ""K57.30"", ""description"": ""Diverticulosis of large intestine without perforation or abscess without bleeding""}",True
+56,F32.9,"Major depressive disorder, single episode, unspecified",F32.9,"Major depressive disorder, single episode, unspecified","{""code"": ""F32.9"", ""description"": ""Major depressive disorder, single episode, unspecified""}",True
+149,J18.9,"Pneumonia, unspecified organism",J18.9,"Pneumonia, unspecified organism","{""code"": ""J18.9"", ""description"": ""Pneumonia, unspecified organism""}",True
+19,E11.9,Type 2 diabetes mellitus without complications,E11.9,Type 2 diabetes mellitus without complications,"{""code"": ""E11.9"", ""description"": ""Type 2 diabetes mellitus without complications""}",True
+205,K62.5,Hemorrhage of anus and rectum,K62.5,Hemorrhage of anus and rectum,"{""code"": ""K62.5"", ""description"": ""Hemorrhage of anus and rectum""}",True
+79,J06.9,"Acute upper respiratory infection, unspecified",J06.9,"Acute upper respiratory infection, unspecified","{""code"": ""J06.9"", ""description"": ""Acute upper respiratory infection, unspecified""}",True
+495,R73.03,Prediabetes,E11.9,Type 2 diabetes mellitus without complications,"{""code"": ""E11.9"", ""description"": ""Type 2 diabetes mellitus without complications""}",False
+263,R10.9,Unspecified abdominal pain,R10.9,Unspecified abdominal pain,"{""code"": ""R10.9"", ""description"": ""Unspecified abdominal pain""}",True
+324,G20.A1,"Parkinson's disease without dyskinesia, without fluctuating manifestations",G20,Parkinson's disease,"{""code"": ""G20"", ""description"": ""Parkinson's disease""}",False
+484,R00.2,Palpitations,R07.9,"Chest pain, unspecified","{""code"": ""R07.9"", ""description"": ""Chest pain, unspecified""}",False
+80,J06.9,"Acute upper respiratory infection, unspecified",J06.9,"Acute upper respiratory infection, unspecified","{""code"": ""J06.9"", ""description"": ""Acute upper respiratory infection, unspecified""}",True
+40,M54.50,"Low back pain, unspecified",M54.50,"Low back pain, unspecified","{""code"": ""M54.50"", ""description"": ""Low back pain, unspecified""}",True
+452,K92.2,"Gastrointestinal hemorrhage, unspecified",K92.2,"Gastrointestinal hemorrhage, unspecified","{""code"": ""K92.2"", ""description"": ""Gastrointestinal hemorrhage, unspecified""}",True
+47,K21.9,Gastro-esophageal reflux disease without esophagitis,K21.9,Gastro-esophageal reflux disease without esophagitis,"{""code"": ""K21.9"", ""description"": ""Gastro-esophageal reflux disease without esophagitis""}",True
+239,M25.562,Pain in left knee,M54.50,"Low back pain, unspecified","{""code"": ""M54.50"", ""description"": ""Low back pain, unspecified""}",False
+392,N40.1,Benign prostatic hyperplasia with lower urinary tract symptoms,N40.1,Benign prostatic hyperplasia with lower urinary tract symptoms,"{""code"": ""N40.1"", ""description"": ""Benign prostatic hyperplasia with lower urinary tract symptoms""}",True
+353,L03.116,Cellulitis of left lower limb,L03.115,Cellulitis of left lower limb,"{""code"": ""L03.115"", ""description"": ""Cellulitis of left lower limb""}",False
+342,J44.9,"Chronic obstructive pulmonary disease, unspecified",J44.9,"Chronic obstructive pulmonary disease, unspecified","{""code"": ""J44.9"", ""description"": ""Chronic obstructive pulmonary disease, unspecified""}",True
+278,R11.2,"Nausea with vomiting, unspecified",K21.9,Gastro-esophageal reflux disease without esophagitis,"{""code"": ""K21.9"", ""description"": ""Gastro-esophageal reflux disease without esophagitis""}",False
+291,R42,Dizziness and giddiness,R42,Dizziness and giddiness,"{""code"": ""R42"", ""description"": ""Dizziness and giddiness""}",True
+318,F41.9,"Anxiety disorder, unspecified",F32.9,"Major depressive disorder, single episode, unspecified","{""code"": ""F32.9"", ""description"": ""Major depressive disorder, single episode, unspecified""}",False
