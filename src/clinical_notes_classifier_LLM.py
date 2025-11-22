@@ -79,7 +79,7 @@ PROMPT_D = (
 )
 
 # ---------------------------------------------------------------
-# NEW PROMPT E — Unified Chain-of-Thought Prompt
+# PROMPT E — Chain-of-Thought Prompt
 # ---------------------------------------------------------------
 
 PROMPT_E = (
