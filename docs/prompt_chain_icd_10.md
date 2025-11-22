@@ -73,4 +73,4 @@ Return JSON only.
   - `--prompt C`
   - `--prompt D`
   - `--prompt E`
-- Candidate mode is automatically handled by the script when `candidate_mode=True` it iset to None for this demo.
+- Candidate mode is automatically handled by the script when `candidate_mode=True` it is set to None for this demo.
